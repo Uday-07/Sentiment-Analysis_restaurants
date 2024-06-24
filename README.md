@@ -33,7 +33,7 @@ The dataset used in this project contains information related to restaurant oper
 - A Google account to use Google Colab.
 - Basic knowledge of Python and machine learning.
 
-- 
+
 ### Steps
 
 1. **Clone the Repository:**
